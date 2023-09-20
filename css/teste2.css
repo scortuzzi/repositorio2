@@ -1,0 +1,9 @@
+
+
+.caixa {width: 500px; height: fit-content; background-color: rgb(128, 255, 121); border-radius: 25px; border: solid 5px #020202; margin: 20px;}
+
+.circulo {width: 100px; height: 100px; background-color: red; border-radius: 50px;}
+
+.h1 {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-size: 30px;}
+
+#texto1 {color: red;}
