@@ -1,5 +1,5 @@
 * {
-    font-family: 'Courier New', Courier, monospace;
+    font-family: Arial;
     /* font-weight: bold; */
 }
 
@@ -19,21 +19,26 @@ margin: auto;
 display: flex;
 justify-content: space-between;
 align-items: center;
-
 }
 
 .header .container ul {
-    color: orange;
+    color: #e3b062;
     width: 400px;
     list-style: none;
     display: flex;
     justify-content: space-evenly;
 }
 
+
+
 .header a {
     text-decoration: none;
-    color: orange;}
+    color: #e3b062;}
 
+    .header ul #aqui {
+        font-weight: 1000;
+        color: #32b9cd;
+    }
 
 .header h1 {color: aqua;}
 
@@ -45,12 +50,7 @@ align-items: center;
 }
 
 .banner {
-    background-image: url(assets/imgs/bg-jelly-fish-para_outras_pags.png);
-    background-size: cover;
-}
-
-.bodyBanner {
-    background-image: url(assets/imgs/bg-jelly-fish-para_outras_pags.png);
+    background-image: url("assets/imgs/bg-jelly-fish-para_outras_pags.png");
     background-size: cover;
 }
 
